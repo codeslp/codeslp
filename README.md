@@ -1,7 +1,7 @@
 I am a data analytics engineer based in Tulsa, OK.
 
 - 💪 I make scalable, resilient data applications in the cloud. 
-- 📦 Here's my favorite one so far. It uses AWS Textract, AWS Step Functions, and several Lambda functions: https://github.com/codeslp/school_assessments_proj
+- 📦 Here's my coolest one so far. It uses AWS Textract, AWS Step Functions, and several Lambda functions: https://github.com/codeslp/school_assessments_proj
 - 📈 Here are reports and dashboards I've made in Tableau:  https://public.tableau.com/app/profile/brian.farish
 - 🖊️ Blog of ideas about data:  https://medium.com/@brian.farish
 
