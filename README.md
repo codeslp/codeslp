@@ -1,7 +1,7 @@
 I am a data analytics engineer based in Tulsa, OK.
 
 - ⚒️ I love data modeling. I enjoy interviewing stakeholders about business processes and then designing models that match those processes and grant vision into their processes. This also applies to creating new reports and views. What is stopping you from making better decisions today?
-- 📦 I used AWS Textract, AWS Step Functions, and several Lambda functions to pull tables from PDFs: https://github.com/codeslp/school_assessments_proj
+- 📦 I used AWS Textract, AWS Step Functions, and several Lambda functions to pull tables from PDFs to gain program-wide insights in a multi-year state-wide education initiative: https://github.com/codeslp/school_assessments_proj
 - 📈 Here are reports and dashboards I've made in Tableau:  https://public.tableau.com/app/profile/brian.farish
 - 🖊️ Blog of ideas about data:  https://medium.com/@brian.farish
 
