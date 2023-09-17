@@ -1,6 +1,6 @@
 #### I am a data analytics engineer based in Tulsa, OK.
 
-- ⚒️ I love data modeling. I enjoy interviewing stakeholders about business processes and then designing models that match those processes and grant vision into their processes. This also applies to creating new reports and views. What is stopping you from making better decisions today?
+- ⚒️ I love data modeling. I enjoy interviewing stakeholders about business processes and designing models that can match processes as they stand presently and as they grow. What is stopping you from making better decisions today?
 - 🖊️ Blog of ideas about data:  https://medium.com/@brian.farish
 
 #### Projects:
