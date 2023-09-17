@@ -5,7 +5,7 @@
 
 #### Projects:
 - 📺 I made local and web apis to allow analysts and data scientists to easily query or make HTTP requests to a dataset that I normalized from a Netflix dataset. It includes a simple demo recommender to illustrate the functionality: https://github.com/codeslp/recommender_db
-- 📦 I used AWS Textract, AWS Step Functions, Lambda functions, and Tableau to pull tables from PDFs to gain program-wide insights in a multi-year state-wide education initiative: https://github.com/codeslp/school_assessments_proj
+- 🧑‍🍳 I used AWS Textract, AWS Step Functions, Lambda functions, and Tableau to pull tables from PDFs to gain program-wide insights in a multi-year state-wide training initiative: https://github.com/codeslp/school_assessments_proj
 - 📈 Here are reports and dashboards I've made in Tableau:  https://public.tableau.com/app/profile/brian.farish
 - 📚 I cleaned and normalized a GoodReads books dataset and did some analysis on what metrics to use to rank them: https://github.com/codeslp/books_db
 - 🎲 This is a dice rolling web API using flask, SQLalchemy, and SQLite (to store roll history):
