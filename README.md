@@ -1,7 +1,7 @@
 #### I am an analytics engineer based in Tulsa, OK.
 
 - ⚒️ I love data modeling. I enjoy interviewing stakeholders about business processes and designing models that can match processes as they stand and as they grow. What is stopping you from making better decisions today?
-- 🖊️ Blog of ideas about data:  https://medium.com/@brian.farish
+- 🖊️ Blog of things I have learned about working with data:  https://medium.com/@brian.farish
 
 #### Projects:
 - 📺 I made local and web apis to allow analysts and data scientists to easily query or make HTTP requests to a dataset that I normalized from a Netflix dataset. It includes a simple demo recommender to illustrate the functionality: https://github.com/codeslp/recommender_db
