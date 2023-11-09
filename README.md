@@ -1,4 +1,4 @@
-#### I am an analytics engineer based in Tulsa, OK.
+#### I am a data engineer based in Tulsa, OK.
 
 - ⚒️ I love data modeling. I enjoy interviewing stakeholders about business processes and designing models that can match processes as they stand and as they grow. What is stopping you from making better decisions today?
 - 🖊️ Blog of things I have learned about working with data:  https://medium.com/@brian.farish
